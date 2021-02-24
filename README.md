@@ -26,7 +26,7 @@ Input a pandas dataframe (in this case "original_series") and use the column "ti
 * Round to *decimals* decimals
 * Filter out all records with to change if *on_changes* is set true
 
-
+main.py creates 3 drivecycle based on the sample data:
 Sample series:
 ![alt text](images/sample.png)
 
